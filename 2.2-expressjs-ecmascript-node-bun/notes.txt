@@ -1,0 +1,13 @@
+ECMASCRIPT - It is a scripting language specification document that defines standards for javascript and their compilers.
+
+What happens when you write google.com?
+
+after writing google.com
+1. DNS resoultion (Domain Name server) happens
+2. Establishes a connection with IP address associated with DNS
+3. 
+
+
+TASK 1 
+create an http / https server in C, C++
+ 

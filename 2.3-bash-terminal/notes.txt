@@ -1,0 +1,18 @@
+For windows download wsl
+
+terminal is nothing but another interace to interact with a machine
+
+We do it using GUI or Graphical user interface, terminl is a command line interface which refers to an interface that accepts command lines to run
+
+Command 
+pwd - print working directory
+cd - change directory
+ls - list 
+mkdir - make directory (make new folder)
+touch - create a new file
+cat - contents of file
+code . - open this file in text editor (VS Code)
+vi - vim command (learn it)(emacs code editor)
+mv - move 
+mv file <file moved> <destination> 
+cp - copy 
