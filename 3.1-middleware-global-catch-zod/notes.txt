@@ -1,0 +1,6 @@
+1. Middlewares - Prechecks 
+2. app.use(callbackFn);
+
+every endpoint or route called after this api will use the callback function as miidleware
+
+3. input validation
