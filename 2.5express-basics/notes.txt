@@ -1,0 +1,6 @@
+create 4 routes for hospital
+
+user can add a kidney
+user can replace a kidney
+user can remove a kidney
+user can get info about their kidney
